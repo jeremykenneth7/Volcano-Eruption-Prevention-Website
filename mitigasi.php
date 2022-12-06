@@ -19,7 +19,7 @@
     <div class="container">
         <div class="badan-detail row justify-content-center ">
             <div class="col-8 col-lg-3 col-md-3">
-                <div class="card" style="width: 18rem;">
+                <div class="card" style="width: 14rem;">
                     <img src="images/mitigasi.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <small>
@@ -53,6 +53,7 @@
                     </div>
                 </div>
             </div>
+            
             <div class="col-9 col-lg-9 col-md-9">
                 <div class="text-center">
                     <img src="images/mitigasi2.png" class="img-fluid" style="width: 500px; " alt="...">
