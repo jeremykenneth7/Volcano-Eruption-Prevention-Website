@@ -88,6 +88,11 @@
                         <td>2019</td>
                         <td>7</td>
                     </tr>
+                    <tr>
+                        <th scope="row">11</th>
+                        <td>2020</td>
+                        <td>14</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
